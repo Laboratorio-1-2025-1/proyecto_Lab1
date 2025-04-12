@@ -1,1 +1,2 @@
-# proyecto_Lab1
+ Bárbara Rincón
+ 29.762.581
