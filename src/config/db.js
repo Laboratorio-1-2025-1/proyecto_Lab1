@@ -4,7 +4,6 @@ const config = {
     user: 'sa',
     password: 'sgba2020',
     server: 'localhost\\SQLEXPRESS',
-    port: 1433,
     database: 'MiBaseLocal',
     options: {
         encrypt: false, 
